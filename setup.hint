@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXaw8
-sdesc: "Xorg XKB utilities"
-ldesc: "Xorg XKB utilities"
+requires: cygwin libX11_6 libXaw7 libXt6
+sdesc: "X.Org XKB utilities"
+ldesc: "X.Org XKB utilities"
