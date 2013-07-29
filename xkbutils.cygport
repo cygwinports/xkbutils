@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xkbutils"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X keyboard utilities"
+DESCRIPTION="This package contains various XKB extension utilities."
